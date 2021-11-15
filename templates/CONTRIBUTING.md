@@ -5,9 +5,14 @@
 [style]: STYLEGUIDE
 [code-of-conduct]: CODE_OF_CONDUCT.md
 
-Hi there! We're thrilled that you'd like to contribute to this project. Your help is essential for keeping it great.
+:+1::tada: First off, thanks for taking the time to contribute! :tada::+1:
 
-Please note that this project is released with a [Contributor Code of Conduct][code-of-conduct]. By participating in this project you agree to abide by its terms.
+The following is a set of guidelines for contributing.
+These are just guidelines, not rules, use your best judgment and feel free to
+propose changes to this document in a pull request.
+
+This project adheres to the Contributor Covenant [Contributor Code of Conduct][code-of-conduct].
+By participating, you are expected to uphold this code. Please report unacceptable at[new issue](issues/new?template=new-release.md).
 
 ## Submitting a pull request
 
