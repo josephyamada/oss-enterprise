@@ -1,14 +1,14 @@
-Title: Release *****/REPO
+# Release oss-enterprise
 
-I'm going to share [REPO name](REPO link) with the world, but before I do, I want to make sure:
+I'm going to share [oss-enterprise](https://github.com/josephyamada/oss-enterprise) with the world, but before I do, I want to make sure:
 
 ## Coordination
 
 - [ ] The repo is visible to the teams below
-- [ ] Discuss licensing or other legal concerns with `legal team @mention`
-- [ ] Evaluate security concerns with `security team @mention`
-- [ ] Request a snazzy logo  from `creative team  @mention`
-- [ ] Discuss promotion strategy with `public relations team @mention` and `marketing @mention`
+- [ ] Discuss licensing or other legal concerns with `legal team @josephyamada`
+- [ ] Evaluate security concerns with `security team @josephyamada`
+- [ ] Request a snazzy logo  from `creative team  @josephyamada`
+- [ ] Discuss promotion strategy with `public relations team @mention` and `marketing @josephyamada`
 
 ## Preparation
 
