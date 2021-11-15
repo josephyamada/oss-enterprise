@@ -1,9 +1,20 @@
-# Releasing Open Source
+# What is the purpose of this repository?
 
-You want to release something as open source? Awesome! It's up to you to get it ready, but don't worry, you are never alone. Open a [new issue](issues/new?template=new-release.md) to get started. [Consider these questions as you start to open source the project.](docs/key-questions-for-choosing-projects.md)
+A model repository for open source goals
 
-## What should be open source?
+# Who should someone contact if they have questions?
 
+Contact the Open Source Maintainer
+
+# How should someone make contact if they have questions?
+
+Open a [new issue](issues/new?template=new-release.md) to submit questions.
+
+
+# What are the first steps to getting started open sourcing a project?
+[Consider these questions as you start to open source the project.](//githubtraining.github.io/oss-assessment/)
+
+# How does this repository relate to other projects and business goals?
 It's easier to answer this question in terms of what should **not** be open sourced:
 
 1. Don't open source anything that represents core business value.  If it makes us lots of money by being closed source, don't open source it.
