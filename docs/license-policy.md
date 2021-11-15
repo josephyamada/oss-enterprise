@@ -2,8 +2,8 @@
 
 ### Our Preferred Licenses
 
-- For software projects, we use xx
-- For documentation projects, we use yy
+- For software projects, we use [Creative Commons Attribution 4.0 International](https://choosealicense.com/licenses/cc-by-4.0/)
+- For documentation projects, we use [Creative Commons Attribution 4.0 International](https://choosealicense.com/licenses/cc-by-4.0/)
 
 ### Acceptable Licenses
 
